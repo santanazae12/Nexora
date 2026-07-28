@@ -1,0 +1,15 @@
+NEXORA AI
+
+FILES TO UPLOAD TO GITHUB
+main.py
+requirements.txt
+.env.example
+README.txt
+
+RAILWAY VARIABLES
+BOT_TOKEN
+GEMINI_API_KEY
+GEMINI_MODEL=gemini-2.0-flash
+
+RAILWAY START COMMAND
+python main.py
