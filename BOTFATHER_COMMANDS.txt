@@ -1,0 +1,31 @@
+start - Launch Nexora AI
+menu - Open the dashboard
+help - Show all commands
+manager - AI Business Manager
+cfo - Autonomous CFO
+brand - Brand Manager
+planner - Business Planner
+assistant - AI Executive Assistant
+content - AI Content Creator
+viral - Viral Content Ideas
+captions - Caption Generator
+scripts - Video Script Writer
+calendar - Content Calendar
+ideas - Business Idea Generator
+offers - Offer Builder
+pricing - Pricing Strategy
+sales - Sales Assistant
+marketing - Marketing Strategy
+learn - Learning Center
+study - Creator Study
+tools - AI Tool Library
+news - AI News
+analytics - Business Analytics
+report - CEO Report
+meeting - Weekly Executive Meeting
+tasks - Daily Task Planner
+goals - Goal Planner
+memory - View Saved Memory
+clearmemory - Clear Saved Memory
+settings - Bot Settings
+about - About Nexora AI
